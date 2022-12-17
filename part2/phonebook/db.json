@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Marcin Rozalski",
+      "number": "42069123",
+      "id": 5
+    },
+    {
+      "name": "stary pasuta",
+      "number": "12369420",
+      "id": 6
+    },
+    {
+      "name": "Michael Scott",
+      "number": "69-420",
+      "id": 10
+    }
+  ]
+}
