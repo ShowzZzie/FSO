@@ -9,7 +9,7 @@ const Country = ({ country }) => {
   const [wind, setWind] = useState(0)
   const [icon, setIcon] = useState('')
 
-  const apikey2 = '459973f31fa3434433f7f5503333cb6f'
+  const apikey2 = [ REDACTED ;) ]
   useEffect(() => {
     axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${country.capital}&appid=${apikey2}&units=metric`)
          .then(response => {
